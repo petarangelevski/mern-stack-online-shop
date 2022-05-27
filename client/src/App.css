@@ -1,0 +1,19 @@
+.signup-container {
+    background-image: url('./images/signup-form-bcg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}
+.mow{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.signin-container{
+    background-image: url('./images/login-form-bcg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}
